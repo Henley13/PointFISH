@@ -1,0 +1,8 @@
+1 random
+2 foci
+3 intranuclear
+4 extranuclear
+5 nuclear_edge
+6 perinuclear
+7 cell_edge
+8 pericellular

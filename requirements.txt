@@ -1,0 +1,7 @@
+big-fish
+sim-fish
+tensorflow==2.3.0
+tensorflow-addons==0.12.1
+pydot
+cudatoolkit==10.1.243
+cudnn==7.6.0
